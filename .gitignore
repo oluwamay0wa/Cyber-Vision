@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.egg-info/
+venv/
+.env
+
+# Data — too large for GitHub
+data/
+models/
+
+# Reports output
+reports/
+
+# Config — contains your API key
+config.json
+
+# PyCharm
+.idea/
